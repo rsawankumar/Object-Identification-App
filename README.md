@@ -11,7 +11,6 @@ ResNet-50 is a 50-layer convolutional neural network (48 convolutional layers, o
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com/Patil-Aditi-Balasaheb/Object-Identification-App.git
     $ cd Object-Identification-App
     
 Activate the virtualenv for your project.
